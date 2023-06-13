@@ -1,6 +1,6 @@
 <h3 align="center">Sou um jovem que amo tecnologia! <3 </h3>
-  <h1>Portfólio<h1>
-    <a href="https://gabrielkramer.netlify.app"  target="blank"><img align="center"> Portfolio Gabriel Kramer</a> 
+  <h1  align="center" >Portfólio<h1>
+    <a href="https://gabrielkramer.netlify.app"  target="blank" align="center" ><img align="center"> Portfolio Gabriel Kramer</a> 
 
 <h3 align="center">Minhas Redes Sociais:</h3>
 <p align="center">
